@@ -222,7 +222,12 @@ a {
     padding: 20px;
     text-align: center;
     background-color: #9dd5d0;
+}
 
+.styletile_link {
+    background-size: 100%;
+    text-align: center;
+    font-size: 30px;
 }
 
 .column_scrum {
